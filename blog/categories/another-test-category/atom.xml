@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[James Lewis]]></title>
-  <link href="http://getsometoast.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Another Test Category | James Lewis]]></title>
+  <link href="http://getsometoast.github.io/blog/categories/another-test-category/atom.xml" rel="self"/>
   <link href="http://getsometoast.github.io/"/>
   <updated>2013-07-17T21:32:50+01:00</updated>
   <id>http://getsometoast.github.io/</id>
